@@ -166,3 +166,12 @@ img {
         padding-top: 50px;
     }
 }
+
+/* BONUS */
+@media screen and (min-width:786px) and (max-width: 1160px) {
+    .container{
+        width: 100%;
+        max-width: 1140px;
+    }
+    
+    }
